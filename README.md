@@ -1,4 +1,4 @@
-# Hi there 👋 I´m Miguel Angel
+# Hi there 👋 I´m Migue
 ### I´m a student at 🐐 TecNM Roque 
 
 ```javascript
