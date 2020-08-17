@@ -6,6 +6,14 @@ const MiGueAJM9724 = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, Java, C#, Kotlin, Swift, SQL, PHP]
 }
+
+async function showGitHubInfo(){
+  let response = await fetch('https://api.github.com/users/MiGueAJM9724/repos');
+  let repositorio = await response.json();
+  console.log(repositorio);
+}
+
+showGitHubInfo();
 ```
 - 🌱 I’m currently learning new tecnologies
 - 💬 Ask me about Backend and Frontend
