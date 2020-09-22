@@ -4,7 +4,7 @@
 ```javascript
 const MiGueAJM9724 = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, Java, C#, Kotlin, Swift, SQL, PHP]
+  code: [HTML, CSS, JavaScript, PHP, SQL, Python]
 }
 
 async function showGitHubInfo(){
