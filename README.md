@@ -20,12 +20,16 @@ showGitHubInfo();
 - 📫 How to reach me: miguejm@outlook.es
 - ⚽️ I like soccer🏆 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MiGueAJM9724&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiGueAJM9724&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MigueAJM&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MigueAJM&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://twitter.com/miguejm9724">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="MiGueAJM9724 | Twitter<" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/migueajm9724.js">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Instagram | MiGueAJM9724.js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.linkedin.com/in/miguel-angel-jimenez-melendez-4226351ba/">
+  <img align="center" alt="Linkedin | MiGueAJM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
+</a>
+
