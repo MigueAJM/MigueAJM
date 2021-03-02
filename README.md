@@ -7,14 +7,6 @@ const MiGueAJM9724 = {
   code: ['HTML', 'CSS', 'JavaScript', 'PHP', 'SQL', 'Python', 'Kotlin', 'Swift'],
   frameworks: ['Materialize', 'Laravel', 'Tailwind', 'Symfony']
 }
-
-async function showGitHubInfo(){
-  let response = await fetch('https://api.github.com/users/MiGueAJM9724/repos');
-  let repositorio = await response.json();
-  console.log(repositorio);
-}
-
-showGitHubInfo();
 ```
 - 🌱 I’m currently learning new tecnologies
 - 💬 Ask me about Backend and Frontend
