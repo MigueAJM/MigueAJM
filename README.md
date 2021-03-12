@@ -8,6 +8,7 @@ const MiGueAJM9724 = {
   frameworks: ['Materialize', 'Laravel', 'Tailwind', 'Symfony']
 }
 ```
+- 💻 I’m currently working at <a href="https://www.crodecelaya.tecnm.mx/">CRODE CELAYA </a>
 - 🌱 I’m currently learning new tecnologies
 - 💬 Ask me about Backend and Frontend
 - 📫 How to reach me: miguejm@outlook.es
