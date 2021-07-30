@@ -1,4 +1,5 @@
 # Hi there 👋 I´m Migue 
+## https://migueajm.github.io/majm/ 🚀🔥💻
 ### I´m a Web Developer Fullstack 🚀
 
 🐐 TecNM Roque 🐐
@@ -16,7 +17,7 @@ const MiGueAJM9724 = {
 - 📫 How to reach me: @MigueAJM  (twitter)
 - ⚽️ I like soccer🏆 
 
-## https://migueajm.github.io/majm/ 
+ 
 <div>
   <p align="right">more about me...</p>
   <a href="https://twitter.com/MigueAJM">
