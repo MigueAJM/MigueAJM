@@ -16,8 +16,7 @@ const MiGueAJM9724 = {
 - 📫 How to reach me: @MigueAJM  (twitter)
 - ⚽️ I like soccer🏆 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MigueAJM&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MigueAJM&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## https://migueajm.github.io/majm/ 
 <div>
   <p align="right">more about me...</p>
   <a href="https://twitter.com/MigueAJM">
