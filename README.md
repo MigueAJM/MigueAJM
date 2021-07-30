@@ -1,5 +1,7 @@
-# Hi there 👋 I´m Migue
-### I´m a student at 🐐 TecNM Roque 
+# Hi there 👋 I´m Migue 
+### I´m a Web Developer Fullstack 🚀
+
+🐐 TecNM Roque 🐐
 
 ```javascript
 const MiGueAJM9724 = {
