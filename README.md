@@ -5,14 +5,14 @@
 🐐 TecNM Roque 🐐
 
 ```javascript
-const MiGueAJM9724 = {
+var MiGueAJM9724 = {
   pronouns: "he" | "him",
   code: ['HTML', 'CSS', 'Sass', 'JavaScript', 'PHP', 'SQL', 'Python', 'Kotlin', 'Swift'],
-  frameworks: ['Materialize', 'Tailwind CSS', 'Laravel', 'Tailwind', 'Symfony', 'Flutter']
+  frameworks: ['Materialize', 'Tailwind CSS', 'Bootstrap', 'Laravel', 'Tailwind', 'Symfony', 'Flutter']
 }
 ```
 - 💻 I’m currently working at ...
-- 🌱 I’m currently learning new tecnologies
+- 🌱 I’m currently learning REACT JS
 - 💬 Ask me about Backend and Frontend
 - 📫 How to reach me: @MigueAJM  (twitter)
 - ⚽️ I like soccer🏆 
