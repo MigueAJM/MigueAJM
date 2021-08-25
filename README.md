@@ -1,5 +1,5 @@
 # Hi there 👋 I´m Migue 
-## https://migueajm.github.io/majm/ 🚀🔥💻
+## https://migueajm.github.io/migueljimenezweb/ 🚀🔥💻
 ### I´m a Web Developer Fullstack 🚀
 
 🐐 TecNM Roque 🐐
