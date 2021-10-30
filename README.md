@@ -7,11 +7,11 @@
 ```javascript
 var MiGueAJM9724 = {
   pronouns: "he" | "him",
-  code: ['HTML', 'CSS', 'Sass', 'JavaScript', 'PHP', 'SQL', 'Python', 'Kotlin', 'Swift'],
+  code: ['HTML', 'CSS', 'Sass', 'JavaScript', 'PHP', 'SQL', 'Python', 'Kotlin', 'Swift', 'C#'],
   frameworks: ['Materialize', 'Tailwind CSS', 'Bootstrap', 'Laravel', 'Tailwind', 'Symfony', 'Flutter']
 }
 ```
-- 💻 I’m currently working at ...
+- 💻 I’m currently working at <a href="http://kurigage.com/">KURIGAGE</a>
 - 🌱 I’m currently learning REACT JS
 - 💬 Ask me about Backend and Frontend
 - 📫 How to reach me: @MigueAJM  (twitter)
