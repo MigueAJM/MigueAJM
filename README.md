@@ -2,26 +2,25 @@
 ## https://migueajm.github.io/migueljimenezweb/ 🚀🔥💻
 ### I´m a Web Developer Fullstack 🚀
 
-🐐 TecNM Roque 🐐
+🐐 <a href="http://www.itroque.edu.mx/">TecNM Roque</a> 🐐
 
 ```javascript
-let MiGueAJM9724 = {
-  pronouns: "he" | "him",
+let majm = [{
+  name: 'Miguel Angel',
   code: ['HTML', 'CSS', 'Sass', 'JavaScript', 'PHP', 'SQL', 'Python', 'Kotlin', 'Swift', 'C#'],
   frameworks: ['Materialize', 'Tailwind CSS', 'Bootstrap', 'Laravel', 'Tailwind', 'Symfony', 'Flutter', 'React']
-}
+}]
 ```
-- 💻 I’m currently working at...
+- 💻 I’m currently working at <a href="https://www.infoexpo.com.mx/home/">Ixpo</a>
 - 🌱 I’m currently learning REACT JS
 - 💬 Ask me about Backend and Frontend
 - 📫 How to reach me: @MigueAJM  (twitter)
 - ⚽️ I like soccer🏆 
 
- 
 <div>
-  <p align="right">more about me...</p>
+  <a href="https://migueajm.github.io/migueljimenezweb/" align="right">more about me...</a>
   <a href="https://twitter.com/MigueAJM">
-    <img align="right" alt="MiGueAJM9724 | Twitter<" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align="right" alt="@MiGueAJM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
 </div>
 
