@@ -7,8 +7,8 @@
 ```javascript
 let majm = [{
   name: 'Miguel Angel',
-  code: ['HTML', 'CSS', 'Sass', 'JavaScript', 'PHP', 'SQL', 'Python', 'Kotlin', 'Swift', 'C#'],
-  frameworks: ['Materialize', 'Tailwind CSS', 'Bootstrap', 'Laravel', 'Tailwind', 'Symfony', 'Flutter', 'React']
+  code: ['HTML', 'CSS', 'Sass', 'JavaScript', 'PHP', 'SQL', 'Python', 'Kotlin', 'Swift', 'C#', 'NodeJS'],
+  frameworks: ['Materialize', 'Tailwind CSS', 'Bootstrap', 'Laravel', 'Tailwind', 'Symfony', 'Flutter', 'React', 'ExpressJS']
 }]
 ```
 - 💻 I’m currently working at <a href="https://www.infoexpo.com.mx/home/">Ixpo</a>
