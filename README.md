@@ -1,17 +1,22 @@
 # Hi there 👋 I´m Migue | [@MigueAJM](https://twitter.com/migueajm)
-## https://migueajm.github.io/migueljimenezweb/ 🚀🔥💻
+## [migueljimenezweb](https://migueajm.github.io/migueljimenezweb/) 🚀🔥💻
 ### I´m a Web Developer Fullstack 🚀
 
-🐐 <a href="http://www.itroque.edu.mx/">TecNM Roque</a> 🐐
+🐐  [TecNM Roque](http://www.itroque.edu.mx/) 🐐
 
 ```javascript
-const majm = [{
-  name: 'Miguel Angel',
-  code: ['HTML', 'CSS', 'Sass', 'JavaScript', 'PHP', 'SQL', 'Python', 'Kotlin', 'Swift', 'C#'],
-  frameworks: ['Materialize', 'Tailwind CSS', 'Bootstrap', 'Laravel', 'Tailwind', 'Symfony', 'Flutter', 'React', 'ExpressJS']
-}]
+const migueajm = [
+  web: {
+    code: ['HTML', 'CSS', 'Sass', 'JavaScript', 'PHP', 'SQL', 'NodeJS'],
+    framework: ['Materialize', 'Tailwind CSS', 'Bootstrap', 'Laravel', 'Tailwind', 'Symfony', 'React', 'ExpressJS']
+  },
+  app: {
+    code: ['kotlin', 'JavaScript', 'Swift'],
+    framework: ['React']
+  }
+]
 ```
-- 💻 I’m currently working at <a href="https://www.infoexpo.com.mx/home/">Ixpo</a>
+- 💻 I’m currently working at [Ixpo](https://www.infoexpo.com.mx/home/)
 - 🌱 I’m currently learning **REACT, NodeJS, MongoDB...**
 - 💬 Ask me about Backend and Frontend
 - 📫 How to reach me: [@MigueAJM](https://twitter.com/migueajm)
