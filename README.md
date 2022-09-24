@@ -13,7 +13,8 @@ const migueajm = [
   app: {
     code: ['kotlin', 'JavaScript', 'Swift'],
     framework: ['React']
-  }
+  },
+  orm: ['Eloquent', 'Doctrine', 'Sequelize']
 ]
 ```
 - 💻 I’m currently working at [Ixpo](https://www.infoexpo.com.mx/home/)
