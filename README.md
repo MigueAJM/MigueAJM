@@ -1,5 +1,4 @@
-# Hi there 👋 I´m Migue | [@MigueAJM](https://twitter.com/migueajm)
-## [migueljimenezweb](https://migueajm.github.io/migueljimenezweb/) 🚀🔥💻
+# Hi there 👋 I´m Migue | [@MigueAJM](https://twitter.com/migueajm) : [migueljimenezweb](https://migueajm.github.io/migueljimenezweb/) 🚀🔥💻
 ### I´m a Web Developer Fullstack 🚀
 
 🐐  [TecNM Roque](http://www.itroque.edu.mx/) 🐐
@@ -11,7 +10,7 @@
 - ⚽️ I like soccer🏆 
 ### __I have worked at__
 * __[CRODE CELAYA](http://www.crodecelaya.tecnm.mx/)__ as __Web developer__
-* __[KURIGAGEA](https://www.kurigage.com/)__ as __Web developer__
+* __[KURIGAGE](https://www.kurigage.com/)__ as __Web developer__
 * __[INFOEXPO](https://www.infoexpo.com.mx/home/)__ as __Web developer__
 ```javascript
 const migueajm = [
