@@ -5,7 +5,7 @@
 | 💻 I’m currently working at [Frescopack](https://frescopack.com/) as __Software developer__ | __[CRODE CELAYA](http://www.crodecelaya.tecnm.mx/)__ as __Web developer__ |
 | 💬 Ask me about Backend and Frontend | __[KURIGAGE](https://www.kurigage.com/)__ as __Web developer__ |
 | 📫 How to reach me: [@MigueAJM](https://twitter.com/migueajm) | __[INFOEXPO](https://www.infoexpo.com.mx/home/)__ as __Web developer__ |
-| ⚽️ I like soccer🏆  | ... |
+| ⚽️ I like soccer🏆  | [Frescopack](https://frescopack.com/) as Software developer |
 
 ```javascript
 const migueajm = [
