@@ -1,5 +1,5 @@
 # Hi there 👋 I´m Migue | [@MigueAJM](https://twitter.com/migueajm) | [migueljimenezweb](https://migueajm.github.io/migueljimenezweb/) 🚀🔥💻
-### I´m a Web Developer Fullstack 🚀|🐐 [TecNM Roque](http://www.itroque.edu.mx/) 🐐 
+### I´m a JS Developer Fullstack 🚀|🐐 [TecNM Roque](http://www.itroque.edu.mx/) 🐐 
 | __Currently__ | __I have worked at__ |
 | ------------------------------- | ------------------------------- |
 | 💻 I’m currently working at [Frescopack](https://frescopack.com/) as __Software developer__ | __[CRODE CELAYA](http://www.crodecelaya.tecnm.mx/)__ as __Web developer__ |
