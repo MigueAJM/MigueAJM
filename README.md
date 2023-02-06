@@ -10,8 +10,27 @@
 ```javascript
 const migueajm = [
   web: {
-    code: ['HTML', 'CSS', 'Sass', 'JavaScript', 'PHP', 'SQL', 'NodeJS', 'Inertia JS'],
-    framework: ['Materialize', 'Tailwind CSS', 'Bootstrap', 'Laravel', 'Tailwind', 'Symfony', 'React', 'ExpressJS', 'Angular']
+    code: [
+      'HTML',
+      'CSS',
+      'Sass',
+      'JavaScript',
+      'PHP',
+      'SQL',
+      'NodeJS',
+      'Inertia JS'
+     ],
+    framework: [
+      'Materialize',
+      'Tailwind CSS',
+      'Bootstrap',
+      'Laravel',
+      'Tailwind',
+      'Symfony',
+      'React',
+      'ExpressJS',
+      'Angular'
+     ]
   },
   app: {
     code: ['kotlin', 'JavaScript', 'Swift'],
