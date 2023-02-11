@@ -26,7 +26,7 @@ const MigueAJM: Developer = {
     web: {
         code: ['HTML', 'CSS', 'SAS', 'JavaScript', 'PHP', 'SQL', 'TypeScript', 'Node JS', 'Inertia JS'],
         framework: ['Materialize', 'Bootstrap', 'Laravel', 'Symfony', 'React', 'ExpressJS', 'Angular']
-    }
+    },
     app: {
         code: ['kotlin', 'JavaScript', 'Swift', 'TypeScript'],
         framework: ['Ionic']
