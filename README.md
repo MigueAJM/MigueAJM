@@ -34,7 +34,8 @@ const MigueAJM: Developer = {
     orm: ['Eloquent', 'Doctrine', 'Sequelize'],
     sgbd: ['MySQL', 'PostgreSQL', 'SQL Server']
 }
-const process: (a:Developer) => void = (MigueAJM) => console.log({developer: MigueAJM});
+const process: (a:Developer) => void = (user: Developer) => console.log({user});
+process(MigueAJM)
 ```
 
 > Todo bien, todo correcto y yo que me alegro - AuronPlay
