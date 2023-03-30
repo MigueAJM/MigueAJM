@@ -4,10 +4,11 @@
 
 | **Currently**                                                 | **I have worked at**                                                      |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 💻 I’m currently working. As **Software developer**           | **[CRODE CELAYA](http://www.crodecelaya.tecnm.mx/)** as **Web developer** |
-| 💬 Ask me about Backend and Frontend                          | **[KURIGAGE](https://www.kurigage.com/)** as **Web developer**            |
 | 📫 How to reach me: [@MigueAJM](https://twitter.com/migueajm) | **[INFOEXPO](https://www.infoexpo.com.mx/home/)** as **Web developer**    |
 | ⚽️ I like soccer🏆                                           | [FRESCOPACK](https://frescopack.com/) as Software developer               |
+| 💬 Ask me about Backend and Frontend                          | **[KURIGAGE](https://www.kurigage.com/)** as **Web developer**            |
+| 💻 I’m currently working. As **Software developer**           | **[CRODE CELAYA](http://www.crodecelaya.tecnm.mx/)** as **Web developer** |
+
 
 ```typescript
 type Developer = {
