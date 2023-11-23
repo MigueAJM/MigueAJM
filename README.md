@@ -1,13 +1,13 @@
-# Hi there 👋 I´m Migue | [@MigueAJM](https://twitter.com/migueajm) | [migueljimenezweb](https://migueajm.github.io/migueljimenezweb/) 🚀🔥💻
+# Hi there 👋 I´m Migue | <a href="https://twitter.com/migueajm" target="_blank">@MigueAJM</a> | <a href="https://migueajm.github.io/migueljimenezweb/" target="_blank">migueljimenezweb</a> 🚀🔥💻
 
 ### I´m a JS Developer Fullstack 🚀|🐐 [TecNM Roque](http://www.itroque.edu.mx/) 🐐
 
 | **Currently**                                                 | **I have worked at**                                                      |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 📫 How to reach me: [@MigueAJM](https://twitter.com/migueajm) | **[INFOEXPO](https://www.infoexpo.com.mx/home/)** as **Web developer**    |
-| ⚽️ I like soccer🏆                                           | [FRESCOPACK](https://frescopack.com/) as Software developer               |
-| 💬 Ask me about Backend and Frontend                          | **[KURIGAGE](https://www.kurigage.com/)** as **Web developer**            |
-| 💻 I’m currently working. As **Software developer**           | **[CRODE CELAYA](http://www.crodecelaya.tecnm.mx/)** as **Web developer** |
+| 📫 How to reach me: <a href="https://twitter.com/migueajm" target="_blank">@MigueAJM</a> | **<a href="https://www.infoexpo.com.mx/home/" target="_blank">INFOEXPO</a>** as **Web developer**    |
+| ⚽️ I like soccer🏆                                           | **<a href="https://frescopack.com/" target="_blank">FRESCOPACK</a>** as Software developer               |
+| 💬 Ask me about Backend and Frontend                          | **<a href="https://www.kurigage.com/" target="_blank">KURIGAGE</a>** as **Web developer**            |
+| 💻 I’m currently working. As **Software developer**           | **<a href="https://www.crodecelaya.tecnm.mx/" target="_blank">CRODE CELAYA</a>** as **Web developer** |
 
 
 ```typescript
@@ -43,4 +43,4 @@ process(MigueAJM)
 
 #
 
-> Vamos carajo... - [@migueajm](https://twitter.com/migueajm)
+> Vamos carajo... - <a href="https://twitter.com/migueajm/" target="_blank">@MigueAJM</a>
