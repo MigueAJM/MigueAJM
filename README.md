@@ -29,11 +29,11 @@ const MigueAJM: Developer = {
         framework: ['Materialize', 'Bootstrap', 'Laravel', 'Symfony', 'React', 'ExpressJS', 'Angular']
     },
     app: {
-        code: ['kotlin', 'JavaScript', 'Swift', 'TypeScript'],
-        framework: ['Ionic']
+        code: ['kotlin', 'JavaScript', 'Swift', 'TypeScript', 'Dart'],
+        framework: ['Ionic', 'Flutter']
     },
     orm: ['Eloquent', 'Doctrine', 'Sequelize'],
-    sgbd: ['MySQL', 'PostgreSQL', 'SQL Server']
+    sgbd: ['MySQL', 'PostgreSQL', 'SQL Server', 'SQLite']
 }
 const process: (a:Developer) => void = (user: Developer) => console.log({user});
 process(MigueAJM)
