@@ -9,38 +9,5 @@
 | 💬 Ask me about Backend and Frontend                          | **<a href="https://www.kurigage.com/" target="_blank">KURIGAGE</a>** as **Web developer**            |
 | 💻 I’m currently working. As **Software developer**           | **<a href="https://www.crodecelaya.tecnm.mx/" target="_blank">CRODE CELAYA</a>** as **Web developer** |
 
-
-```typescript
-type Developer = {
-    web: {
-        code: string[],
-        framework: string[]
-    },
-    app: {
-        code: string[],
-        framework: string[]
-    },
-    orm: string[],
-    sgbd: string[]
-}
-const MigueAJM: Developer = {
-    web: {
-        code: ['HTML', 'CSS', 'SAS', 'JavaScript', 'PHP', 'SQL', 'TypeScript', 'Node JS', 'Inertia JS'],
-        framework: ['Materialize', 'Bootstrap', 'Laravel', 'Symfony', 'React', 'ExpressJS', 'Angular']
-    },
-    app: {
-        code: ['kotlin', 'JavaScript', 'Swift', 'TypeScript', 'Dart'],
-        framework: ['Ionic', 'Flutter']
-    },
-    orm: ['Eloquent', 'Doctrine', 'Sequelize'],
-    sgbd: ['MySQL', 'PostgreSQL', 'SQL Server', 'SQLite']
-}
-const process: (a:Developer) => void = (user: Developer) => console.log({user});
-process(MigueAJM)
-```
-
 > Todo bien, todo correcto y yo que me alegro - AuronPlay
-
-#
-
 > Vamos carajo... - <a href="https://twitter.com/migueajm/" target="_blank">@MigueAJM</a>
