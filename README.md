@@ -1,6 +1,6 @@
 # Hi there 👋 I´m Migue | <a href="https://twitter.com/migueajm" target="_blank">@MigueAJM</a> | <a href="https://migueajm.github.io/migueljimenezweb/" target="_blank">migueljimenezweb</a> 🚀🔥💻
 
-### I´m a JS Developer Fullstack 🚀|🐐 [TecNM Roque](http://www.itroque.edu.mx/) 🐐
+### Software Developer with over 3 years of experience in designing and developing web and mobile applications. Specialized in technologies such as JavaScript, PHP, React, Node.js, and Flutter. Passionate about creating efficient and user-centric applications, with a focus on continuous improvement and adopting best development practices. Seeking to contribute my skills in a dynamic environment to drive the success of the team and projects.
 
 | **Currently**                                                 | **I have worked at**                                                      |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------- |
@@ -10,4 +10,4 @@
 | 💻 I’m currently working. As **Software developer**           | **<a href="https://www.crodecelaya.tecnm.mx/" target="_blank">CRODE CELAYA</a>** as **Web developer** |
 
 > Todo bien, todo correcto y yo que me alegro - AuronPlay
-> Vamos carajo... - <a href="https://twitter.com/migueajm/" target="_blank">@MigueAJM</a>
+> Vamos carajo... - <a href="https://www.linkedin.com/in/migueajm/" target="_blank">@MigueAJM</a>
