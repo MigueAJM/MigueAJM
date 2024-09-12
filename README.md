@@ -1,6 +1,18 @@
 # Hi there 👋 I´m Migue | <a href="https://twitter.com/migueajm" target="_blank">@MigueAJM</a> | <a href="https://migueajm.github.io/migueljimenezweb/" target="_blank">migueljimenezweb</a> 🚀🔥💻
 
-### Software Developer with over 3 years of experience in designing and developing web and mobile applications. Specialized in technologies such as JavaScript, PHP, React, Node.js, and Flutter. Passionate about creating efficient and user-centric applications, with a focus on continuous improvement and adopting best development practices. Seeking to contribute my skills in a dynamic environment to drive the success of the team and projects.
+### Software Developer with over 3 years of experience in designing and developing web and mobile applications. Specialized in technologies such as: 
+- JavaScript
+- PHP
+- React
+- Node.js
+- Flutter
+- Symfony
+- Laravel
+- Angular
+- TypeSccript
+- API
+- SQL(M&ySQL, PostgreSql)
+### Passionate about creating efficient and user-centric applications, with a focus on continuous improvement and adopting best development practices. Seeking to contribute my skills in a dynamic environment to drive the success of the team and projects.
 
 | **Currently**                                                 | **I have worked at**                                                      |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------- |
