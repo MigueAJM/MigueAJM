@@ -11,11 +11,12 @@
 - PHP
 - React
 - Node.js
-- Flutter
 - Symfony
 - Laravel
-- Angular
 - TypeSccript
+- Flutter
+- Angular
+- IONIC
 - API
 - SQL(M&ySQL, PostgreSql)
 ### Passionate about creating efficient and user-centric applications, with a focus on continuous improvement and adopting best development practices. Seeking to contribute my skills in a dynamic environment to drive the success of the team and projects.
