@@ -13,7 +13,7 @@
 - Node.js
 - Symfony
 - Laravel
-- TypeSccript
+- TypeScript
 - Flutter
 - Angular
 - IONIC
