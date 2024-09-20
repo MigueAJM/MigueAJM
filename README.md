@@ -9,11 +9,11 @@
 ### Software Developer with over 3 years of experience in designing and developing web and mobile applications. Specialized in technologies such as: 
 | language | Framework or Library | Environment |
 | ------------| ----------------------------------------- | --------- |
-| JavaScript| Nodejs, Express JS, JQuery | WEB |
-| PHP | Symfony & Laravel | WEB |
-| Dart | Flutter | Multiplatform (android, ios, win, macos & web )|
-|TypeScriopt|React, Angular & IONIC| WEB |
-| SQL | PostgreSQL, MySQL, SQLite |
+| 🟨 JavaScript| Nodejs, Express JS, JQuery | Web application |
+| 🟦 PHP | Symfony & Laravel | Web application |
+| 🟦 Dart | Flutter | Multiplatform (android, ios, win, macos & web )|
+| 🟦 TypeScriopt |React, Angular & IONIC| Web application |
+| ⬛️ SQL | PostgreSQL, MySQL, SQLite | Storage |
 
 ### Passionate about creating efficient and user-centric applications, with a focus on continuous improvement and adopting best development practices. Seeking to contribute my skills in a dynamic environment to drive the success of the team and projects.
 
