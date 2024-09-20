@@ -7,18 +7,14 @@
 | 💻 I’m currently working. As **Software developer**           | **<a href="https://www.crodecelaya.tecnm.mx/" target="_blank">CRODE CELAYA</a>** as **Web developer** |
 
 ### Software Developer with over 3 years of experience in designing and developing web and mobile applications. Specialized in technologies such as: 
-- JavaScript
-- PHP
-- React
-- Node.js
-- Symfony
-- Laravel
-- TypeScript
-- Flutter
-- Angular
-- IONIC
-- API
-- SQL(M&ySQL, PostgreSql)
+| language | Framework or Library | Environment |
+| ------------| ----------------------------------------- | --------- |
+| JavaScript| Nodejs, Express JS, JQuery | WEB |
+| PHP | Symfony & Laravel | WEB |
+| Dart | Flutter | Multiplatform (android, ios, win, macos & web )|
+|TypeScriopt|React, Angular & IONIC| WEB |
+| SQL | PostgreSQL, MySQL, SQLite |
+
 ### Passionate about creating efficient and user-centric applications, with a focus on continuous improvement and adopting best development practices. Seeking to contribute my skills in a dynamic environment to drive the success of the team and projects.
 
 > Todo bien, todo correcto y yo que me alegro - AuronPlay
